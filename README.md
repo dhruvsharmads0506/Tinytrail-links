@@ -60,7 +60,7 @@ TinyTrail can be used for sharing links cleanly, tracking campaign performance, 
 </p>
 
 <h2>👨‍💻 Author</h2>
-<p><b>Name:</b> Dhruv Sharmaji</p>
+<p><b>Name:</b> Dhruv Sharma</p>
 <p><b>Project:</b> TinyTrail</p>
 <p><b>Role:</b> Full Stack Developer</p>
 
